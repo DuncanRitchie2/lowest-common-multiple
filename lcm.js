@@ -34,7 +34,7 @@ function primeFactors(n) {
 }
 
 // mergeArrays(arr1, arr2) returns the first array concatenated to every item in the second array that isn't in the first.
-// Values duplicated within an array will be duplicated in the output.
+// Values replicated within an array will be duplicated in the output.
 // E.g. mergeArrays([2,2,2,3],[2,3,3,5]) => [2,2,2,3,3,5].
 
 function mergeArrays(arr1, arr2) {
